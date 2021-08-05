@@ -1,0 +1,4 @@
+<?
+$MESS['STARTSEND_SMS_EVENTCODE_ISMS_STATUSUPDATE'] = 'Обновление статуса';
+$MESS['STARTSEND_SMS_EVENTCODE_ISMS_NEWORDER'] = 'Новый заказ';
+?>

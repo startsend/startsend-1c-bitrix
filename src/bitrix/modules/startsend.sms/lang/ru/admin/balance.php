@@ -1,0 +1,1 @@
+<?$MESS["STARTSEND_SMS_BALANCE_TITLE"] = "Остаток на счету";$MESS["STARTSEND_SMS_OPT_ERROR1"] = "Не удалось подключиться к сервису рассылок.";$MESS["STARTSEND_SMS_SETTINGS"] = "Настройки доступа к сервису";$MESS["STARTSEND_SMS_OPT_BALANCE"] = "Остаток на счету";$MESS["STARTSEND_SMS_OPT_CURENCY"] = "руб.";$MESS["STARTSEND_SMS_OPT_BALANCE_ADD"] = "Пополнить счет";?>
